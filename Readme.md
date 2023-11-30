@@ -2,7 +2,7 @@ press `Ctrl + Shift + V` to view this file (if elsewhere from git)
 
 # Introduction
 
-This repository groups two of my past course reports (2021-2022) that involved some python coding : simulation and modelisation (SIMU) and numerical methods (MENU).
+This repository groups two of my past course reports (2022-2023) that involved some python coding : simulation and modelisation (SIMU) and numerical methods (MENU).
 
 ## SIMU
 In this folder, you will find the python library I coded (in collaboration with my binome) to simulate molecular dynamics (more specifically, the brownian motion). There are two run scripts : 
